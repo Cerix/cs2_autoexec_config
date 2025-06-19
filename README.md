@@ -41,3 +41,4 @@ bind "MWHEELDOWN" "+jump_"
 
 //Desubtick END
 ```
+You should immediately notice your character feels lighter when you start strafing.
