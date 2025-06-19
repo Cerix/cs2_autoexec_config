@@ -3,12 +3,11 @@ Personal CS2 Autoexec config
 
 # Simple desubtick config working @june25
 
-Copy desubtick folder in 
-'''Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg'''
+Copy desubtick folder in:
+```Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg```
 
 add in your autoexec.cfg:
-
-'''
+```
 // Desubtick BEGIN
 alias +jump_ "exec desubtick/workaround_jump_start"
 alias -jump_ "exec desubtick/workaround_jump_end"
@@ -41,4 +40,4 @@ bind "MWHEELUP" "+jump_"
 bind "MWHEELDOWN" "+jump_"
 
 //Desubtick END
-'''
+```
